@@ -1,0 +1,12 @@
+Filetype: Flipper SubRem Map file
+Version: 1
+UP: /ext/subghz/WEN_3410_remote/On_speed.sub
+DOWN: /ext/subghz/WEN_3410_remote/Off.sub 
+LEFT: /ext/subghz/WEN_3410_remote/Time.sub
+RIGHT: /ext/subghz/JDS_Cyclone/Off.sub
+OK: /ext/subghz/JDS_Cyclone/On.sub 
+ULABEL: Scrub SPEED
+DLABEL: Scrub OFF
+LLABEL: Scrub TIME
+RLABEL: Cyclone OFF
+OKLABEL: Cyclone ON

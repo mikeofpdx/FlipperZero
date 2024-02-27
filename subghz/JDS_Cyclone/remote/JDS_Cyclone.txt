@@ -1,0 +1,10 @@
+Filetype: Flipper SubRem Map file
+Version: 1
+DOWN: /ext/subghz/JDS_Cyclone/Off.sub 
+RIGHT: /ext/subghz/JDS_Cyclone/Time_plus.sub 
+LEFT: /ext/subghz/JDS_Cyclone/Time_minus.sub
+OK: /ext/subghz/JDS_Cyclone/On.sub 
+DLABEL: Off 
+RLABEL: Time +
+LLABEL: Time -
+OKLABEL: On
